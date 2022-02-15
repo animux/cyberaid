@@ -1,0 +1,18 @@
+.button {
+    margin: 25px 5px !important;
+    color: white;
+}
+
+.button-primary {
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+}
+
+.button-primary:hover {
+    color: black;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
